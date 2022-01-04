@@ -1,0 +1,2 @@
+# whereiamsc
+Fivem Scoreboard

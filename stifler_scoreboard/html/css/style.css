@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BebasKai';
+    src: url('../fonts/BebasKai.ttf') format('truetype');
+    font-weight: 300;
+}
+
+body {
+    font-family: 'BebasKai';
+}
+
+
+#glavni{
+    max-width: 17vh;
+    padding: 1vh 15.5vh;
+    background: linear-gradient(123deg, rgba(0, 72, 44, 0.357) 50%, rgba(9, 87, 121, 0.118) 85%, rgba(2, 86, 150, 0) 100%);
+    position: fixed;
+    left: 75vh;
+    border-radius: .5vh;
+}
+
